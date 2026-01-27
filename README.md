@@ -1,12 +1,12 @@
 # ALH Skip & Grab Hire — Professional Waste Removal Website
 
-Welcome! This repository contains the source and documentation for the **ALH Skip & Grab Hire** WordPress website — a clean, responsive site showcasing reliable skip and grab hire services for both residential and commercial customers. :contentReference[oaicite:1]{index=1}
+Welcome! This repository contains the source and documentation for the **ALH Skip & Grab Hire** WordPress website, a clean, responsive site showcasing reliable skip and grab hire services for both residential and commercial customers. :contentReference[oaicite:1]{index=1}
 
 ---
 
 ## 🌐 Live Site
 
-🔗 **https://alhskipandgrabhire.wpcomstaging.com/** — Preview the live WordPress build here. :contentReference[oaicite:2]{index=2}
+🔗 **https://alhskipandgrabhire.wpcomstaging.com/** : Preview the live WordPress build here. :contentReference[oaicite:2]{index=2}
 
 ---
 
