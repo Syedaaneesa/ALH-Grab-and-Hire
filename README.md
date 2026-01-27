@@ -6,7 +6,7 @@ Welcome! This repository contains the source and documentation for the **ALH Ski
 
 ## 🌐 Live Site
 
-🔗 **https://alhskipandgrabhire.wpcomstaging.com/** : Preview the live WordPress build here. :contentReference[oaicite:2]{index=2}
+🔗 **https://alhskipandgrabhire.wpcomstaging.com/** : Preview the live WordPress build here.
 
 ---
 
