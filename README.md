@@ -53,9 +53,7 @@ _Showcasing Full Page._
 | Plugins        | Contact Form 7 / SEO Plugins / Performance Enhancers |
 | Languages      | HTML5, CSS3, PHP, JavaScript |
 | Design Tools   | Figma / Adobe XD (for prototype) |
-| Hosting        | WordPress.com Staging Environment | :contentReference[oaicite:5]{index=5}
-
----
+| Hosting        | WordPress.com Staging Environment 
 
 ---
 
@@ -67,5 +65,5 @@ _Showcasing Full Page._
 
 ---
 
-### ⭐ If you like this project, consider giving it a star on [GitHub!](https://github.com/Syedaaneesa/Auto-Rehab)
+### ⭐ If you like this project, consider giving it a star on [GitHub!](https://github.com/Syedaaneesa/ALH-Grab-and-Hire)
 
