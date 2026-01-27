@@ -12,13 +12,13 @@ Welcome! This repository contains the source and documentation for the **ALH Ski
 
 ## 📸 Project Preview
 
-Below are some visuals from the live site (replace these with actual screenshots you upload to the repo):
+Below are some visuals from the live site:
 
-![Home Page Screenshot](https://github.com/Syedaaneesa/ALH-Grab-and-Hire/blob/main/Hero-Section-alhskipandgrabhire-com-01-28-2026_12_33_AM.PNG)  
+![Hero Section Screenshot](https://github.com/Syedaaneesa/ALH-Grab-and-Hire/blob/main/Hero-Section-alhskipandgrabhire-com-01-28-2026_12_33_AM.PNG)  
 _A glimpse of the homepage with service highlights._
 
-![Services Section](https://github.com/Syedaaneesa/ALH-Grab-and-Hire/blob/main/Home-alhskipandgrabhire-com-01-28-2026_12_33_AM.png)  
-_Showcasing available waste removal options._
+![Full Page Screenshot](https://github.com/Syedaaneesa/ALH-Grab-and-Hire/blob/main/Home-alhskipandgrabhire-com-01-28-2026_12_33_AM.png)  
+_Showcasing Full Page._
 
 ---
 
@@ -56,3 +56,16 @@ _Showcasing available waste removal options._
 | Hosting        | WordPress.com Staging Environment | :contentReference[oaicite:5]{index=5}
 
 ---
+
+---
+
+## 👩‍💻 Developer
+
+**Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)  
+**Role:** WordPress Developer / Designer  
+**Project Type:** Client-based live website project  
+
+---
+
+### ⭐ If you like this project, consider giving it a star on [GitHub!](https://github.com/Syedaaneesa/Auto-Rehab)
+
