@@ -16,6 +16,9 @@ Below are some visuals from the live site:
 ![Hero Section Screenshot](https://github.com/Syedaaneesa/ALH-Grab-and-Hire/blob/main/Hero-Section-alhskipandgrabhire-com-01-28-2026_12_33_AM.PNG)  
 _A glimpse of the homepage with service highlights._
 
+![Hero Section Screenshot](https://github.com/Syedaaneesa/ALH-Grab-and-Hire/blob/main/Home-alhskipandgrabhire-com-01-30-2026_06_30_PM.png)  
+_A Google Reviews Section._
+
 ![Full Page Screenshot](https://github.com/Syedaaneesa/ALH-Grab-and-Hire/blob/main/Home-alhskipandgrabhire-com-01-28-2026_12_33_AM.png)  
 _Showcasing Full Page._
 
