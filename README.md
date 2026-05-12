@@ -36,10 +36,10 @@ _Showcasing Full Page._
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 📍 Home, About, Services, FAQs, Contact pages
-- 🚚 Clean structure that promotes conversion
+-  Home, About, Services, FAQs, Contact pages
+-  Clean structure that promotes conversion
 - 📱 Fully mobile friendly
 - 💼 Built with WordPress using the Block Editor (Gutenberg)
 - ⚙️ SEO optimized with clean headings and metadata :contentReference[oaicite:4]{index=4}
