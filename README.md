@@ -46,7 +46,7 @@ _Showcasing Full Page._
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 | Category       | Tech / Tool |
 |----------------|--------------|
@@ -59,7 +59,7 @@ _Showcasing Full Page._
 
 ---
 
-## 👩‍💻 Developer
+##  Developer
 
 **Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)  
 **Role:** WordPress Developer / Designer  
@@ -67,5 +67,5 @@ _Showcasing Full Page._
 
 ---
 
-### ⭐ If you like this project, consider giving it a star on [GitHub!](https://github.com/Syedaaneesa/ALH-Grab-and-Hire)
+###  If you like this project, consider giving it a star on [GitHub!](https://github.com/Syedaaneesa/ALH-Grab-and-Hire)
 
