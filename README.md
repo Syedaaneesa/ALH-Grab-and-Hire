@@ -40,9 +40,9 @@ _Showcasing Full Page._
 
 -  Home, About, Services, FAQs, Contact pages
 -  Clean structure that promotes conversion
-- 📱 Fully mobile friendly
-- 💼 Built with WordPress using the Block Editor (Gutenberg)
-- ⚙️ SEO optimized with clean headings and metadata :contentReference[oaicite:4]{index=4}
+-  Fully mobile friendly
+-  Built with WordPress using the Block Editor (Gutenberg)
+-  SEO optimized with clean headings and metadata :contentReference[oaicite:4]{index=4}
 
 ---
 
