@@ -24,12 +24,12 @@ _Showcasing Full Page._
 
 ---
 
-## 🧠 Project Overview
+##  Project Overview
 
 **ALH Skip & Grab Hire** delivers a professional, trustworthy web presence for a waste removal business. The site includes:
 
-- ✔️ **Responsive design** for mobile and desktop
-- ✔️ **Clear service descriptions**
+-  **Responsive design** for mobile and desktop
+-  **Clear service descriptions**
 - ✔️ **FAQs section**
 - ✔️ **Contact form and contact details**
 - ✔️ **Fast, SEO-friendly structure** :contentReference[oaicite:3]{index=3}
