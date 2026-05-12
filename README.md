@@ -30,9 +30,9 @@ _Showcasing Full Page._
 
 -  **Responsive design** for mobile and desktop
 -  **Clear service descriptions**
-- ✔️ **FAQs section**
-- ✔️ **Contact form and contact details**
-- ✔️ **Fast, SEO-friendly structure** :contentReference[oaicite:3]{index=3}
+-  **FAQs section**
+-  **Contact form and contact details**
+-  **Fast, SEO-friendly structure** :contentReference[oaicite:3]{index=3}
 
 ---
 
