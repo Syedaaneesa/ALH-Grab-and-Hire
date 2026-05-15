@@ -25,7 +25,7 @@ _Showcasing Full Page._
 
 ##  Project Overview
 
-**ALH Skip & Grab Hire** delivers a professional, trustworthy web presence for a waste removal business. The site includes:
+**ALH Skip & Grab** Hire delivers a professional and trustworthy online presence for a waste removal business. The website includes:
 
 -  **Responsive design** for mobile and desktop
 -  **Clear service descriptions**
