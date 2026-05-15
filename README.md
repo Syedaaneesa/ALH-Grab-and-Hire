@@ -2,7 +2,7 @@
 
 Welcome to the repository for the ALH Skip & Grab Hire WordPress website. This project includes the complete source code and documentation for a modern, responsive website designed to showcase professional skip and grab hire services for residential and commercial customers. The website focuses on clean design, smooth user experience, and easy content management.
 
-##  Live Site
+##  Explore Live Site:
 
  **https://alhskipandgrabhire.wpcomstaging.com/** 
 
