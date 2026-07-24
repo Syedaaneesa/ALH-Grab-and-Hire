@@ -3,10 +3,8 @@
 Welcome to the **ALH Skip & Grab Hire** website repository. This project contains the complete source code and documentation for a modern, fully responsive WordPress website showcasing professional skip hire and grab hire services for residential, commercial, and industrial clients. Designed with a clean interface, intuitive navigation, and an excellent user experience across all devices, the website makes it easy for visitors to explore services and request quotes. Built on WordPress, it offers a flexible, scalable, and easy-to-manage content management system that supports efficient content updates, strong performance, search engine optimization (SEO), and long-term maintainability while helping drive the continued growth of the ALH Skip & Grab Hire business.
 
 ##  Explore Live Website:
-
  **https://alhskipandgrabhire.wpcomstaging.com/** 
 
----
 
 ##  Project Preview
 
@@ -21,7 +19,6 @@ _A Google Reviews Section._
 ![Full Page Screenshot](https://github.com/Syedaaneesa/ALH-Grab-and-Hire/blob/main/Home-alhskipandgrabhire-com-01-28-2026_12_33_AM.png)  
 _Showcasing Full Page._
 
----
 
 ##  Project Overview
 
@@ -33,7 +30,6 @@ _Showcasing Full Page._
 -  **Contact form and contact details**
 -  **Fast, SEO-friendly structure** :contentReference[oaicite:3]{index=3}
 
----
 
 ##  Features
 
@@ -43,7 +39,6 @@ _Showcasing Full Page._
 -  Built with WordPress using the Block Editor (Gutenberg)
 -  SEO optimized with clean headings and metadata :contentReference[oaicite:4]{index=4}
 
----
 
 ##  Tech Stack
 
@@ -56,7 +51,6 @@ _Showcasing Full Page._
 | Design Tools   | Figma / Adobe XD (for prototype) |
 | Hosting        | WordPress.com Staging Environment 
 
----
 
 ##  Developer
 
@@ -64,7 +58,6 @@ _Showcasing Full Page._
 **Role:** WordPress Developer / Designer  
 **Project Type:** Client-based live website project  
 
----
 
 ###  If you like this project, consider giving it a star on [GitHub!](https://github.com/Syedaaneesa/ALH-Grab-and-Hire)
 
