@@ -28,8 +28,7 @@ _Showcasing Full Page._
 -  **Clear service descriptions**
 -  **FAQs section**
 -  **Contact form and contact details**
--  **Fast, SEO-friendly structure** :contentReference[oaicite:3]{index=3}
-
+-  **Fast, SEO-friendly structure**
 
 ##  Features
 
