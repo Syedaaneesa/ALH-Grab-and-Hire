@@ -56,6 +56,7 @@ _Showcasing Full Page._
 **Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)  
 **Role:** WordPress Developer / Designer  
 **Project Type:** Client-based live website project  
+**Email:** s.shujaat05@gmail.com
 
 
 ** If you like this project, consider giving it a star on [GitHub!](https://github.com/Syedaaneesa/ALH-Grab-and-Hire) **
