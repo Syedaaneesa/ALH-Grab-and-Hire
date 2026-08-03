@@ -59,5 +59,5 @@ _Showcasing Full Page._
 **Email:** s.shujaat05@gmail.com
 
 
-** If you like this project, consider giving it a star on [GitHub!](https://github.com/Syedaaneesa/ALH-Grab-and-Hire) **
+*** If you like this project, consider giving it a star on [GitHub!](https://github.com/Syedaaneesa/ALH-Grab-and-Hire) ***
 
