@@ -36,7 +36,7 @@ _Showcasing Full Page._
 -  Clean structure that promotes conversion
 -  Fully mobile friendly
 -  Built with WordPress using the Block Editor (Gutenberg)
--  SEO optimized with clean headings and metadata :contentReference[oaicite:4]{index=4}
+-  SEO optimized with clean headings and metadata
 
 
 ##  Tech Stack
@@ -53,7 +53,7 @@ _Showcasing Full Page._
 
 ##  Developer
 
-**Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)  
+**Developed by:** [Syeda Aneesa](https://github.com/Syedaaneesa)
 **Role:** WordPress Developer / Designer  
 **Project Type:** Client-based live website project  
 **Email:** s.shujaat05@gmail.com
